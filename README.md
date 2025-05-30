@@ -2,7 +2,8 @@
 > This user is a huge nerd.
 
 # 👋 Hi, I’m Hestia!
-- 👀 I’m interested in developing video games and doing all the fun programs of [🟧 HackClub](https://hackclub.com/)!
+- 👀 I’m interested in developing video games and doing all the fun programs of [🟧 HackClub](https://hackclub.com/)
+- 📑 I'm currently participating in [⛵Shipwrecked](https://shipwrecked.hackclub.com/) (and maybe [🗽Athena Awards](https://athena.hackclub.com/)) and you should too if you can!
 - 🌱 I’m currently learning Unity (C#)
 - 📫 How to reach me: ... <sup> i'll get some socials soon!! </sup>
 
